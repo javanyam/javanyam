@@ -8,14 +8,13 @@
 ✨ About Me ✨
 - Birth : 1996. 05. 24
 - Address : :kr: Gyeyanggu Incheon
+- E-Mail : genie6746@naver.com
 - University : Hansung University a History Department
 - License: SQLD (Structured Query Language Developer)
 
 
 <!-- Link of your pages.(ex : youtube, discord anyway) -->
 <img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCjt131cTjg8KKAS6uinrmbg)
-### :postbox: Contact
-:e-mail: :genie6746@naver.com
 
 <br>
 
