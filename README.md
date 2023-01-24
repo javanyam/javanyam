@@ -14,6 +14,8 @@
 
 <!-- Link of your pages.(ex : youtube, discord anyway) -->
 <img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCjt131cTjg8KKAS6uinrmbg)
+### :postbox: Contact
+:e-mail: :genie6746@naver.com
 
 <br>
 
@@ -36,8 +38,7 @@
   
   ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Javanyam&show_icons=true&theme=highcontrast)
 
-### :postbox: Contact
-:e-mail: :genie6746@naver.com
+
 
 
 <!-- test page -->
