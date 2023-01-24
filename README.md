@@ -1,5 +1,5 @@
 <!-- Main -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,5,5,50&height=300&section=header&text=Yejin's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,6,9,8,50&height=300&section=header&text=Yejin's%20Github&fontSize=90)
 ## Hello, I'm Yejin Lee 😊 
 
 
